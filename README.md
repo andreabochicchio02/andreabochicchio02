@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Andrea
 
 ### 🎓 Education
-- Master's degree (in progress) in **Artificial Intelligence and Data Engineering** - _University of Pisa_ <br>
-- Bachelor's degree in **Computer Engineering** - _University of Pisa_
+**AI & Data Engineering MSc Student** @UniPisa  |  **Computer Engineering BSc Graduate** @UniPisa
+
 
 ### 🛠 Tech Stack
 - **Languages:**
